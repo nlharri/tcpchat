@@ -2,7 +2,7 @@
 Simple TCP Chat Server and Client using Stream Sockets
 
 The following tutorials were used to build this app:
-  * 
+* 
 
 # Background info
 Some useful information about stream sockets.
